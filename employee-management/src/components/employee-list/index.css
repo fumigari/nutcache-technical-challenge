@@ -1,0 +1,10 @@
+.employee-list {
+  padding: 0rem 0rem 1rem;
+  width: 100%;
+}
+
+.employee-list__buttons {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-evenly;
+}
